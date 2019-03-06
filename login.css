@@ -56,16 +56,19 @@ input[type="text"],input[type="password"]{
 }
 
 .btn{
-	margin-top: 35px;
-	margin-left: 80px;
+	margin-top: 32px;
+	margin-left: 42px;
 	height: 35px;
-	width:160px;
-	background: #357eb8;
-	color: #bcedff;
-	font-weight: bold;
-	background: #0e62a3;
-	cursor: pointer;
-	font-size: 25px;
+	width:95px;
+}
+
+.box{
+	margin-top: 32px;
+	margin-left: 48px;
+	height: 34px;
+	width:83px;	
+	font-size:17px; 
+	color: #6a6f77;
 }
 
 .astyle{
